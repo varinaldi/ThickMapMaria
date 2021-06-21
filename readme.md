@@ -7,4 +7,4 @@ Carvalhaes, Thomaz and Rinaldi, Vivaldi and Goh, Zhen and Azad, Shams and Uribe,
 
 <br>
 <br>
-![alt text](Geoapp.png =100x20)
+![alt text](Geoapp.png)
